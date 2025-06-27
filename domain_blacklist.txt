@@ -1,1 +1,1 @@
-zzzzz
+{{ $json.body.events[0].message.text }}

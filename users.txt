@@ -1,1 +1,2 @@
-
+192.168.33.1
+{{ $json.body.events[0].message.text }}
